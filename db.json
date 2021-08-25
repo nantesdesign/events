@@ -2,48 +2,48 @@
     "events": [
         {
           "id": 5928101,
-          "category": 'animal welfare',
-          "title": 'Cat Adoption Day 1',
-          "description": 'Find your new feline friend at this event!',
-          "date": 'January 28, 2022',
-          "time": '12:00',
-          "organizer": 'Kat'
+          "category": "animal welfare",
+          "title": "Cat Adoption Day 1",
+          "description": "Find your new feline friend at this event!",
+          "date": "January 28, 2022",
+          "time": "12:00",
+          "organizer": "Kat"
         },
         {
           "id": 5928102,
-          "category": 'animal welfare',
-          "title": 'Cat Adoption Day 2',
-          "description": 'Find your new feline friend at this event!',
-          "date": 'January 28, 2022',
-          "time": '12:00',
-          "organizer": 'Kat'
+          "category": "animal welfare",
+          "title": "Cat Adoption Day 2",
+          "description": "Find your new feline friend at this event!",
+          "date": "January 28, 2022",
+          "time": "12:00",
+          "organizer": "Kat"
         },
         {
           "id": 5928103,
-          "category": 'animal welfare',
-          "title": 'Cat Adoption Day 3',
-          "description": 'Find your new feline friend at this event!',
-          "date": 'January 28, 2022',
-          "time": '12:00',
-          "organizer": 'Kat'
+          "category": "animal welfare",
+          "title": "Cat Adoption Day 3",
+          "description": "Find your new feline friend at this event!",
+          "date": "January 28, 2022",
+          "time": "12:00",
+          "organizer": "Kat"
         },
         {
           "id": 5928104,
-          "category": 'animal welfare',
-          "title": 'Cat Adoption Day 4',
-          "description": 'Find your new feline friend at this event!',
-          "date": 'January 28, 2022',
-          "time": '12:00',
-          "organizer": 'Kat'
+          "category": "animal welfare",
+          "title": "Cat Adoption Day 4",
+          "description": "Find your new feline friend at this event!",
+          "date": "January 28, 2022",
+          "time": "12:00",
+          "organizer": "Kat"
         },
         {
           "id": 5928105,
-          "category": 'animal welfare',
-          "title": 'Cat Adoption Day 5',
-          "description": 'Find your new feline friend at this event!',
-          "date": 'January 28, 2022',
-          "time": '12:00',
-          "organizer": 'Kat'
+          "category": "animal welfare",
+          "title": "Cat Adoption Day 5",
+          "description": "Find your new feline friend at this event!",
+          "date": "January 28, 2022",
+          "time": "12:00",
+          "organizer": "Kat"
         },
 
     ]
