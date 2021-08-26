@@ -1,7 +1,7 @@
 {
     "events": [
         {
-          "id": 5928101,
+          "id": 101,
           "category": "animal welfare",
           "title": "Cat Adoption Day 1",
           "description": "Find your new feline friend at this event!",
@@ -10,7 +10,7 @@
           "organizer": "Kat"
         },
         {
-          "id": 5928102,
+          "id": 102,
           "category": "animal welfare",
           "title": "Cat Adoption Day 2",
           "description": "Find your new feline friend at this event!",
@@ -19,7 +19,7 @@
           "organizer": "Kat"
         },
         {
-          "id": 5928103,
+          "id": 103,
           "category": "animal welfare",
           "title": "Cat Adoption Day 3",
           "description": "Find your new feline friend at this event!",
@@ -28,7 +28,7 @@
           "organizer": "Kat"
         },
         {
-          "id": 5928104,
+          "id": 104,
           "category": "animal welfare",
           "title": "Cat Adoption Day 4",
           "description": "Find your new feline friend at this event!",
@@ -37,7 +37,7 @@
           "organizer": "Kat"
         },
         {
-          "id": 5928105,
+          "id": 105,
           "category": "animal welfare",
           "title": "Cat Adoption Day 5",
           "description": "Find your new feline friend at this event!",
